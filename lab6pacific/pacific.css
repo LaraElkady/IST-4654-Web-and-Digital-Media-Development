@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFFFFF;
+    color: #666666;
+}
+
+header {
+    background-color: #002171;
+    background-image: url("sunset.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    line-height: 400%;
+    text-indent: 1em;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+
+nav {
+    margin-top: 0;
+    background-color: #90C7E3;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #3399CC;
+}
+
+dt {
+    color: #000033;
+}
+
+resort {
+    color: #5C7FA3;
+}
+
+contact {
+    color: #666666;
+}
+
+
+
