@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #90C7E3;
+    color: #666666;
+    background: linear-gradient(#FFFFFF, #90C7E3);
+    background-repeat: no-repeat;
+}
+
+#wrapper {
+    width: 80%;
+    margin: auto;
+    background-color: #FFFFFF;
+    max-width: 2048px;
+    min-width: 960px;
+    box-shadow: 3px 3px 3px #333333;
+}
+
+main {
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    display: block;
+}
+
+header {
+    background-color: #002171;
+    background-image: url("sunset.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    color: #FFFFFF;
+    margin-bottom: 0;
+    padding-top: 15px;
+    height: 60px;
+    text-align: center;
+}
+
+nav {
+    background-color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+
+}
+
+nav a {
+    text-decoration: none;
+}
+
+h1 {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: #3399CC;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+
+    font-family: 'Times New Roman', Times, serif;
+    color: #002171;
+}
+
+ul {
+    list-style-image: url('marker.gif');
+}
+
+dt {
+    color: #002171;
+}
+
+resort {
+    color: #3399CC;
+    font-weight: bold;
+
+}
+
+contact {
+    color: #666666;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
